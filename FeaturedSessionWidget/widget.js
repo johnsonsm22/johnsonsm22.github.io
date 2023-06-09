@@ -4,9 +4,9 @@ import { FeaturedSession } from "./components/FeaturedSession.js";
 
 export default class extends HTMLElement {
   images = [
-    "https://d3auq6qtr2422x.cloudfront.net/images/bill-hamway-2pW3U_0rT1U-unsplash.jpeg",
-    "https://d3auq6qtr2422x.cloudfront.net/images/christian-holzinger-ROJi8Uo4MpA-unsplash.jpeg",
-    "https://d3auq6qtr2422x.cloudfront.net/images/chuttersnap-Q_KdjKxntH8-unsplash.jpeg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/PitbullHWOFMay2013.jpg/220px-PitbullHWOFMay2013.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ken-Thompson-2019.png",
+    "https://www.cvent.com/sites/default/files/styles/focus_scale_and_crop_300x300/public/image/2018-01/reggie-aggarwal-thumb.jpg",
   ];
 
   constructor({ configuration, theme }) {
